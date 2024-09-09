@@ -1,8 +1,12 @@
 
 [![MasterHead](https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://portfolio-orpin-tau-64.vercel.app/#home)
 <h1 align="center">Hi 👋, I'm Taiwo Fatokun</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h3 align="center">As a passionate Full Stack Software Engineer, I thrive on transforming complex challenges into elegant, user-centric solutions. With a strong foundation in both frontend, backend and native mobile technologies, I specialize in creating seamless, high-performance applications using ReactJS, NestJS, and React Native. My expertise extends to crafting visually stunning and responsive designs with Tailwind CSS, while ensuring robust data management with PostgreSQL and MongoDB.
+
+I’m driven by a commitment to continuous learning and innovation, always eager to explore new technologies and methodologies. My goal is to build scalable, efficient software that not only meets but exceeds user expectations.
+
+Let’s connect and explore how we can leverage technology to drive success and create impactful solutions!</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expertech-1&label=Profile%20views&color=0e75b6&style=flat" alt="expertech-1" /> </p>
 
